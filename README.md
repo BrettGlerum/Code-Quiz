@@ -10,7 +10,7 @@ The application is titled Code-Quiz and opens up to a blank page with a purple b
 
 Link to deployed application: https://brettglerum.github.io/Code-Quiz/
 
-Screenshot of Application: ![screenshot] (https://github.com/BrettGlerum/Code-Quiz/blob/main/assets/images/Screenshot%20(13).png)
+Screenshot of Application: ![screenshot](https://github.com/BrettGlerum/Code-Quiz/blob/main/assets/images/Screenshot%20(13).png)
 
 # License
 
